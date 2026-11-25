@@ -1,4 +1,4 @@
-Markdown
+
 # Automated Price Tracker & Analytics Dashboard
 
 ## Description
